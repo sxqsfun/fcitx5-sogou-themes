@@ -1,5 +1,5 @@
 # 简介
-通过 [ssfconv](https://github.com/fkxxyz/ssfconv) 工具转换了几款 搜狗极简风格 皮肤的主题。
+通过 [ssfconv](https://github.com/fkxxyz/ssfconv) 工具转换了几款 搜狗极简风格 皮肤的 fcitx5 主题。
 
 ## 主题效果
 
