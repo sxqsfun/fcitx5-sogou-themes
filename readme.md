@@ -5,40 +5,38 @@
 
 ### Alpha-white-2.0
 
-![Alpha-black-2.0](https://github.com/sxqsfun/fcitx5-sogou-themes/blob/master/Alpha-black-2.0/14647873433885_former.jpg)
-
-![Alpha-black-2.0](https://github.com/sxqsfun/fcitx5-sogou-themes/blob/master/Alpha-black-2.0/comp_525968.png)
+![Alpha-black-2.0](https://github.com/sxqsfun/fcitx5-sogou-themes/blob/master/Alpha-black-2.0/h.png)
 
 ### Alpha-black
 
-![Alpha-black](https://github.com/sxqsfun/fcitx5-sogou-themes/blob/master/Alpha-black/comp_525008.png)
+![Alpha-black](https://github.com/sxqsfun/fcitx5-sogou-themes/blob/master/Alpha-black/h.png)
 
 ### Alpha-white-2.0
 
-![Alpha-white-2.0](https://github.com/sxqsfun/fcitx5-sogou-themes/blob/master/Alpha-white-2.0/comp_525970.png)
+![Alpha-white-2.0](https://github.com/sxqsfun/fcitx5-sogou-themes/blob/master/Alpha-white-2.0/h.png)
 
 ### Alpha-white
 
-![Alpha-white](https://github.com/sxqsfun/fcitx5-sogou-themes/blob/master/Alpha-white/comp_525064.png)
+![Alpha-white](https://github.com/sxqsfun/fcitx5-sogou-themes/blob/master/Alpha-white/h.png)
 
 ### 倬彼昊天·格子
 
-![倬彼昊天·格子](https://github.com/sxqsfun/fcitx5-sogou-themes/blob/master/倬彼昊天·格子/comp_520471.png)
+![倬彼昊天·格子](https://github.com/sxqsfun/fcitx5-sogou-themes/blob/master/倬彼昊天·格子/h.png)
 ### 倬彼昊天·灰色MAC
 
-![倬彼昊天·灰色MAC](https://github.com/sxqsfun/fcitx5-sogou-themes/blob/master/倬彼昊天·灰色MAC/comp_403076.png)
+![倬彼昊天·灰色MAC](https://github.com/sxqsfun/fcitx5-sogou-themes/blob/master/倬彼昊天·灰色MAC/h.png)
 
 ### 珍珠白
 
-![珍珠白](https://github.com/sxqsfun/fcitx5-sogou-themes/blob/master/珍珠白/comp_527202.png)
+![珍珠白](https://github.com/sxqsfun/fcitx5-sogou-themes/blob/master/珍珠白/h.png)
 
 ### 珍珠白（无阴影版）
 
-![珍珠白（无阴影版）](https://github.com/sxqsfun/fcitx5-sogou-themes/blob/master/珍珠白（无阴影版）/comp_527567.png)
+![珍珠白（无阴影版）](https://github.com/sxqsfun/fcitx5-sogou-themes/blob/master/珍珠白（无阴影版）/h.png)
 
 ### 简约白<br>
 
-![简约白](https://github.com/sxqsfun/fcitx5-sogou-themes/blob/master/简约白/comp_569900.png)
+![简约白](https://github.com/sxqsfun/fcitx5-sogou-themes/blob/master/简约白/h.png)
 
 
 # 安装
