@@ -5,19 +5,21 @@
 
 ### Alpha-white-2.0
 
-![Alpha-white-2.0](https://github.com/sxqsfun/fcitx5-sogou-themes/blob/master/Alpha-black-2.0/14647873433885_former.jpg)
+![Alpha-black-2.0](https://github.com/sxqsfun/fcitx5-sogou-themes/blob/master/Alpha-black-2.0/14647873433885_former.jpg)
+
+![Alpha-black-2.0](https://github.com/sxqsfun/fcitx5-sogou-themes/blob/master/Alpha-black-2.0/comp_525968.png)
 
 ### Alpha-black
 
-![Alpha-black](https://github.com/sxqsfun/fcitx5-sogou-themes/blob/master/Alpha-black/14639283055185_former.jpg)
+![Alpha-black](https://github.com/sxqsfun/fcitx5-sogou-themes/blob/master/Alpha-black/comp_525008.png)
 
 ### Alpha-white-2.0
 
-![Alpha-white-2.0](https://github.com/sxqsfun/fcitx5-sogou-themes/blob/master/Alpha-white-2.0/14647875855795_former.jpg)
+![Alpha-white-2.0](https://github.com/sxqsfun/fcitx5-sogou-themes/blob/master/Alpha-white-2.0/comp_525970.png)
 
 ### Alpha-white
 
-![Alpha-white](https://github.com/sxqsfun/fcitx5-sogou-themes/blob/master/Alpha-white/14639904441781_former.jpg)
+![Alpha-white](https://github.com/sxqsfun/fcitx5-sogou-themes/blob/master/Alpha-white/comp_525064.png)
 
 ### 倬彼昊天·格子
 
