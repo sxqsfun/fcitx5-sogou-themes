@@ -34,7 +34,7 @@
 
 ![珍珠白（无阴影版）](https://github.com/sxqsfun/fcitx5-sogou-themes/blob/master/珍珠白（无阴影版）/comp_527567.png)
 
-- 简约白<br>
+### 简约白<br>
 
 ![简约白](https://github.com/sxqsfun/fcitx5-sogou-themes/blob/master/简约白/comp_569900.png)
 
