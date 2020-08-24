@@ -39,6 +39,11 @@
 
 ![珍珠白](https://github.com/sxqsfun/fcitx5-sogou-themes/blob/master/珍珠白/h.png)
 
+
+### 白色卡片
+
+![白色卡片](https://github.com/sxqsfun/fcitx5-sogou-themes/blob/master/白色卡片/h.png)
+
 ### 珍珠白（无阴影版）
 
 ![珍珠白（无阴影版）](https://github.com/sxqsfun/fcitx5-sogou-themes/blob/master/珍珠白（无阴影版）/h.png)
