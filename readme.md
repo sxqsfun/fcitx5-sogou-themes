@@ -19,9 +19,18 @@
 
 ![Alpha-white](https://github.com/sxqsfun/fcitx5-sogou-themes/blob/master/Alpha-white/h.png)
 
+### 【安然】简单白（默认皮肤圆角纯白版）
+
+![【安然】简单白（默认皮肤圆角纯白版）](https://github.com/sxqsfun/fcitx5-sogou-themes/blob/master/【安然】简单白（默认皮肤圆角纯白版）/h.png)
+
+### 【竹子】极简花青
+
+![【竹子】极简花青](https://github.com/sxqsfun/fcitx5-sogou-themes/blob/master/【竹子】极简花青/h.png)
+
 ### 倬彼昊天·格子
 
 ![倬彼昊天·格子](https://github.com/sxqsfun/fcitx5-sogou-themes/blob/master/倬彼昊天·格子/h.png)
+
 ### 倬彼昊天·灰色MAC
 
 ![倬彼昊天·灰色MAC](https://github.com/sxqsfun/fcitx5-sogou-themes/blob/master/倬彼昊天·灰色MAC/h.png)
