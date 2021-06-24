@@ -3,7 +3,7 @@
 
 ## 主题效果
 
-### Alpha-white-2.0
+### Alpha-black-2.0
 
 ![Alpha-black-2.0](https://github.com/sxqsfun/fcitx5-sogou-themes/blob/master/Alpha-black-2.0/h.png)
 
